@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm delighted to have you here :relaxed:
 
 <!--
 **bachmannscode/bachmannscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
