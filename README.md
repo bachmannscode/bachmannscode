@@ -1,4 +1,5 @@
-# Check out my [contributions](https://github.com/21Analytics/blockbook/commits/master/?author=bachmannscode) to [blockbook](https://github.com/21Analytics/blockbook).
+# Check out my ✨ [**contributions**](https://github.com/21Analytics/blockbook/commits/master/?author=bachmannscode) ✨ to [blockbook](https://github.com/21Analytics/blockbook).
+
 
 <!--
 **bachmannscode/bachmannscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
