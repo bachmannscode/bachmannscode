@@ -1,4 +1,4 @@
-# I'm delighted to have you here :relaxed:
+# See my [contributions](https://github.com/21Analytics/blockbook/commits/master/?author=bachmannscode) to [21Analytics/blockbook](https://github.com/21Analytics/blockbook).
 
 <!--
 **bachmannscode/bachmannscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
