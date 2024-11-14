@@ -1,4 +1,4 @@
-# Check out my ✨ [**contributions**](https://github.com/21Analytics/blockbook/commits/master/?author=bachmannscode) ✨ to [blockbook](https://github.com/21Analytics/blockbook).
+# Unlisted ✨ [**contributions**](https://github.com/21Analytics/blockbook/commits/master/?author=bachmannscode) ✨ to [blockbook](https://github.com/21Analytics/blockbook).
 
 
 <!--
